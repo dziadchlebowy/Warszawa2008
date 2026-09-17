@@ -1,0 +1,20 @@
+{
+    "id": "0027",
+    "name": "PANCERA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "02": {
+            "streets": [
+                "Świderska"
+            ],
+            "regular": [
+                "404",
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "0018",
+    "name": "EKSPRESOWA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144",
+                "508"
+            ],
+            "request": [
+                "E4",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144",
+                "508"
+            ],
+            "request": [
+                "E4",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

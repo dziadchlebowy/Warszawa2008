@@ -1,0 +1,451 @@
+{
+    "line": "N63",
+    "type": "bus",
+    "description": "linia zwykła",
+    "validFrom": "2026-09-17",
+    "routes": [
+        {
+            "id": "TP-ŻER",
+            "name": "TP-ŻER",
+            "from": "DĄBRÓWKA SZLACHECKA",
+            "to": "ŻERAŃ FSO",
+            "stops": [
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 0,
+                    "number": "03",
+                    "terminus": true,
+                    "groupId": "0001"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 1,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0001"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "POETÓW",
+                    "travelTime": 2,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0004"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "WINNICA",
+                    "travelTime": 3,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0005"
+                },
+                {
+                    "street": "Mehoffera",
+                    "name": "HENRYKÓW",
+                    "travelTime": 4,
+                    "number": "03",
+                    "request": true,
+                    "groupId": "0006"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "PASŁĘCKA",
+                    "travelTime": 5,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0007"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "STRUMYKOWA",
+                    "travelTime": 6,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0008"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "NOWODWORY",
+                    "travelTime": 7,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0009"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "STEFANIKA",
+                    "travelTime": 8,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0010"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MEHOFFERA",
+                    "travelTime": 9,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0011"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "TARCHOMIN",
+                    "travelTime": 11,
+                    "number": "04",
+                    "request": true,
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "KAMIŃSKIEGO",
+                    "travelTime": 12,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0013"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "ĆMIELOWSKA",
+                    "travelTime": 13,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0014"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "CERAMICZNA",
+                    "travelTime": 14,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0015"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MILENIJNA",
+                    "travelTime": 15,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0039"
+                },
+                {
+                    "street": "Myśliborska",
+                    "name": "MYŚLIBORSKA",
+                    "travelTime": 17,
+                    "number": "03",
+                    "request": true,
+                    "groupId": "0028"
+                },
+                {
+                    "street": "Myśliborska",
+                    "name": "PORAJÓW",
+                    "travelTime": 18,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0029"
+                },
+                {
+                    "street": "Obrazkowa",
+                    "name": "STARE ŚWIDRY",
+                    "travelTime": 19,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0040"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "OBRAZKOWA",
+                    "travelTime": 20,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0017"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 21,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "PŁOCHOCIŃSKA",
+                    "travelTime": 22,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0019"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KONWALIOWA",
+                    "travelTime": 24,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0020"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KANAŁ ŻERAŃSKI",
+                    "travelTime": 25,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0021"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EC ŻERAŃ",
+                    "travelTime": 26,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0022"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 27,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0023"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "13": [
+                        33
+                    ]
+                },
+                "saturday": {
+                    "10": [
+                        37
+                    ]
+                }
+            }
+        },
+        {
+            "id": "TP-DĄB",
+            "name": "TP-DĄB",
+            "from": "ŻERAŃ FSO",
+            "to": "DĄBRÓWKA SZLACHECKA",
+            "stops": [
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 0,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0023"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 2,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0023"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KANAŁ ŻERAŃSKI",
+                    "travelTime": 4,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0021"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KONWALIOWA",
+                    "travelTime": 5,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0020"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "PŁOCHOCIŃSKA",
+                    "travelTime": 6,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0019"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 7,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Obrazkowa",
+                    "name": "OBRAZKOWA",
+                    "travelTime": 8,
+                    "number": "03",
+                    "request": true,
+                    "groupId": "0017"
+                },
+                {
+                    "street": "Myśliborska",
+                    "name": "STARE ŚWIDRY",
+                    "travelTime": 9,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0040"
+                },
+                {
+                    "street": "Myśliborska",
+                    "name": "PORAJÓW",
+                    "travelTime": 10,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0029"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MYŚLIBORSKA",
+                    "travelTime": 11,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0028"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MILENIJNA",
+                    "travelTime": 12,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0039"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "CERAMICZNA",
+                    "travelTime": 13,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0015"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "ĆMIELOWSKA",
+                    "travelTime": 14,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0014"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "KAMIŃSKIEGO",
+                    "travelTime": 15,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0013"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "TARCHOMIN",
+                    "travelTime": 16,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MEHOFFERA",
+                    "travelTime": 17,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0011"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "STEFANIKA",
+                    "travelTime": 18,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0010"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "NOWODWORY",
+                    "travelTime": 19,
+                    "number": "04",
+                    "request": true,
+                    "groupId": "0009"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "STRUMYKOWA",
+                    "travelTime": 21,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0008"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "PASŁĘCKA",
+                    "travelTime": 22,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0007"
+                },
+                {
+                    "street": "Mehoffera",
+                    "name": "CHĘCIŃSKA",
+                    "travelTime": 23,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0024"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "HENRYKÓW",
+                    "travelTime": 24,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0006"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "WINNICA",
+                    "travelTime": 25,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0005"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "POETÓW",
+                    "travelTime": 26,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0004"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 27,
+                    "number": "03",
+                    "terminus": true,
+                    "groupId": "0001"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "11": [
+                        14
+                    ],
+                    "23": [
+                        50
+                    ]
+                },
+                "saturday": {
+                    "16": [
+                        4
+                    ]
+                }
+            }
+        }
+    ]
+}

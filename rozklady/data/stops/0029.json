@@ -1,0 +1,46 @@
+{
+    "id": "0029",
+    "name": "PORAJÓW",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Myśliborska"
+            ],
+            "regular": [
+                "404",
+                "508"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Myśliborska"
+            ],
+            "regular": [
+                "404"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "04": {
+            "streets": [
+                "Porajów"
+            ],
+            "regular": [
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

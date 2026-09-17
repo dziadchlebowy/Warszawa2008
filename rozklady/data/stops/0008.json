@@ -1,0 +1,34 @@
+{
+    "id": "0008",
+    "name": "STRUMYKOWA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Hanki Ordonówny"
+            ],
+            "regular": [
+                "144"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Hanki Ordonówny"
+            ],
+            "regular": [
+                "144"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

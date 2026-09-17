@@ -1,0 +1,46 @@
+{
+    "id": "0028",
+    "name": "MYŚLIBORSKA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "03": {
+            "streets": [
+                "Myśliborska"
+            ],
+            "regular": [
+                "404"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "E4",
+                "404"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "E4"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

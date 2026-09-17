@@ -1,0 +1,1482 @@
+{
+    "groups": [
+        {
+            "id": "0001",
+            "name": "DĄBRÓWKA SZLACHECKA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "03": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "144",
+                        "N63"
+                    ],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0002",
+            "name": "DĄBRÓWKA WIŚLANA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Aluzyjna"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [],
+                    "terminus": [
+                        "211",
+                        "511"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0003",
+            "name": "ALUZYJNA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0004",
+            "name": "POETÓW",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "511"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "511"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0005",
+            "name": "WINNICA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0006",
+            "name": "HENRYKÓW",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "03": {
+                    "streets": [
+                        "Mehoffera"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [
+                        "511",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "511"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0007",
+            "name": "PASŁĘCKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Hanki Ordonówny"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Hanki Ordonówny"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0008",
+            "name": "STRUMYKOWA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Hanki Ordonówny"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Hanki Ordonówny"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0009",
+            "name": "NOWODWORY",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "04": {
+                    "streets": [
+                        "Hanki Ordonówny"
+                    ],
+                    "regular": [
+                        "144"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "10": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [
+                        "211",
+                        "516"
+                    ],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "211",
+                        "508",
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "11": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "508"
+                    ],
+                    "alightingOnly": []
+                },
+                "07": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "E8"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0010",
+            "name": "STEFANIKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "144",
+                        "508",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "03": {
+                    "streets": [
+                        "Stefanika"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0011",
+            "name": "MEHOFFERA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "144",
+                        "404",
+                        "508",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E8",
+                        "144",
+                        "508",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0012",
+            "name": "TARCHOMIN",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "04": {
+                    "streets": [
+                        "Ćmielowska"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "07": {
+                    "streets": [
+                        "Świętosławskiego"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "404"
+                    ],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E4",
+                        "404",
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "08": {
+                    "streets": [
+                        "Świderska"
+                    ],
+                    "regular": [
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "09": {
+                    "streets": [
+                        "Świętosławskiego"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "E4"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0013",
+            "name": "KAMIŃSKIEGO",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Ćmielowska"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Ćmielowska"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0014",
+            "name": "ĆMIELOWSKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Milenijna"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Ćmielowska"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0015",
+            "name": "CERAMICZNA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Milenijna"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Milenijna"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0016",
+            "name": "BIAŁOŁĘKA-RATUSZ",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "E4",
+                        "144",
+                        "511",
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "03": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E4",
+                        "144",
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0017",
+            "name": "OBRAZKOWA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "03": {
+                    "streets": [
+                        "Obrazkowa"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0018",
+            "name": "EKSPRESOWA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "E4",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "E4",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0019",
+            "name": "PŁOCHOCIŃSKA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "508"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0020",
+            "name": "KONWALIOWA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "404",
+                        "508",
+                        "511",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "404",
+                        "508",
+                        "511",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0021",
+            "name": "KANAŁ ŻERAŃSKI",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0022",
+            "name": "EC ŻERAŃ",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0023",
+            "name": "ŻERAŃ FSO",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "09": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "144",
+                        "N63"
+                    ],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [
+                        "144",
+                        "516"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "14": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "516"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0024",
+            "name": "CHĘCIŃSKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "02": {
+                    "streets": [
+                        "Mehoffera"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "144",
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0025",
+            "name": "GRZYMALITÓW",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "211"
+                    ],
+                    "request": [
+                        "516"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "211"
+                    ],
+                    "request": [
+                        "516"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0026",
+            "name": "DZIERZGOŃSKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Dzierzgońska"
+                    ],
+                    "regular": [
+                        "211",
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Dzierzgońska"
+                    ],
+                    "regular": [
+                        "211",
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0027",
+            "name": "PANCERA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "02": {
+                    "streets": [
+                        "Świderska"
+                    ],
+                    "regular": [
+                        "404",
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0028",
+            "name": "MYŚLIBORSKA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "03": {
+                    "streets": [
+                        "Myśliborska"
+                    ],
+                    "regular": [
+                        "404"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E4",
+                        "404"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [
+                        "E4"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0029",
+            "name": "PORAJÓW",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Myśliborska"
+                    ],
+                    "regular": [
+                        "404",
+                        "508"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Myśliborska"
+                    ],
+                    "regular": [
+                        "404"
+                    ],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "04": {
+                    "streets": [
+                        "Porajów"
+                    ],
+                    "regular": [
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0030",
+            "name": "OS.POTOK",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "04": {
+                    "streets": [
+                        "Al. Armii Krajowej"
+                    ],
+                    "regular": [
+                        "404",
+                        "508",
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "03": {
+                    "streets": [
+                        "Al. Armii Krajowej"
+                    ],
+                    "regular": [
+                        "404",
+                        "508",
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0031",
+            "name": "PARK KASKADA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "06": {
+                    "streets": [
+                        "Al. Armii Krajowej"
+                    ],
+                    "regular": [
+                        "404",
+                        "508",
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "05": {
+                    "streets": [
+                        "Al. Armii Krajowej"
+                    ],
+                    "regular": [
+                        "404",
+                        "508",
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0032",
+            "name": "PARK OLSZYNA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "05": {
+                    "streets": [
+                        "Al. Armii Krajowej"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "404"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0033",
+            "name": "PICASSA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Porajów"
+                    ],
+                    "regular": [
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Świderska"
+                    ],
+                    "regular": [
+                        "508"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0034",
+            "name": "METRO MARYMONT",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "11": {
+                    "streets": [
+                        "Włościańska"
+                    ],
+                    "regular": [
+                        "E4",
+                        "E8",
+                        "508",
+                        "511"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "14": {
+                    "streets": [
+                        "Włościańska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "508"
+                    ],
+                    "alightingOnly": []
+                },
+                "15": {
+                    "streets": [
+                        "Włościańska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "511"
+                    ],
+                    "alightingOnly": []
+                },
+                "12": {
+                    "streets": [
+                        "Włościańska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "E4"
+                    ],
+                    "alightingOnly": []
+                },
+                "13": {
+                    "streets": [
+                        "Włościańska"
+                    ],
+                    "regular": [],
+                    "request": [],
+                    "terminus": [
+                        "E8"
+                    ],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0035",
+            "name": "KLASYKÓW",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "511"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Modlińska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "511"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0036",
+            "name": "BAREI",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Odkryta"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Odkryta"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0037",
+            "name": "HANKI ORDONÓWNY",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "01": {
+                    "streets": [
+                        "Odkryta"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Odkryta"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0038",
+            "name": "CIOŁKOSZA",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "04": {
+                    "streets": [
+                        "Stefanika"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "02": {
+                    "streets": [
+                        "Odkryta"
+                    ],
+                    "regular": [
+                        "516"
+                    ],
+                    "request": [],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0039",
+            "name": "MILENIJNA",
+            "streetKey": "",
+            "district": "",
+            "stops": {
+                "02": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Światowida"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        },
+        {
+            "id": "0040",
+            "name": "STARE ŚWIDRY",
+            "streetKey": "",
+            "district": "WARSZAWA",
+            "stops": {
+                "02": {
+                    "streets": [
+                        "Obrazkowa"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                },
+                "01": {
+                    "streets": [
+                        "Myśliborska"
+                    ],
+                    "regular": [],
+                    "request": [
+                        "N63"
+                    ],
+                    "terminus": [],
+                    "alightingOnly": []
+                }
+            }
+        }
+    ]
+}

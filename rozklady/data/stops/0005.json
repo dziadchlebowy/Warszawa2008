@@ -1,0 +1,32 @@
+{
+    "id": "0005",
+    "name": "WINNICA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

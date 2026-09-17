@@ -1,0 +1,299 @@
+BODY {background-image: url(./kalendarium/tlo_kalendarium2.gif); background-attachment:scroll;}
+A:link { color=#6600ff; text-decoration:none;}
+A:visited { color=#6600ff; text-decoration:none;}
+A:hover { color=#990099; text-decoration:underline;}
+
+TD {background-image: none; font-size: 9pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border-color:#000000;}
+TD.nawigacja {background-image: url(./kartoteki/tlo_kartotekilewy.gif); font-size: 35pt; font-family: Impact; font-weight:bold; color:#ffff00; text-align: center; border-color:#000000;}
+
+TD.tresc2 {background-image:none; font-size: 12pt; font-family: Arial; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc2 span {background-image:none; font-size:12pt; font-family: Arial; font-weight:bold; color:#6600ff; text-align: left; border-color:#000000;}
+TD.tresc23 {background-image:none; font-size: 12pt; font-family: Tahoma; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc23 span {background-image:none; font-size:12pt; font-family: Tahoma; font-weight:bold; color:#6600ff; text-align: left; border-color:#000000;}
+TD.tresc21 {background:#ffffff; font-size: 12pt; font-family: Tahoma; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc21 span {background:#ffffff; font-size:12pt; font-family: Tahoma; font-weight:normal; color:#6600ff; text-align: left; border-color:#000000;}
+TD.tresc22 {background:#dddddd; font-size: 14pt; font-family: Arial; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc22 span {background:#dddddd; font-size:14pt; font-family: Arial; font-weight:normal; color:#6600ff; text-align: left; border-color:#000000;}
+TD.tresc200 {background-image:none; font-size: 12pt; font-family: Arial; font-weight:normal; color:#000000; text-align: center; border-color:#000000;}
+TD.tresc200 span {background-image:none; font-size:11pt; font-family: Arial; font-weight:bold; color:#6600ff; text-align: center; border-color:#000000;}
+TD.tresc {background-image:none; font-size: 9pt; font-family: Arial; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc3 {background-image:url(./kartoteki/tlo_kartotekiprawy.gif); font-size: 9pt; font-family: Arial; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresc span {background-image:none; font-size: 13pt; font-family: Arial; font-weight:bold; color:#009900; text-align: left; border-color:#000000;}
+
+TD.autor {background:#ffffcc; font-size: 8pt; font-family: Arial; font-weight:bold; color:#003366; text-align: justify; border-color:#000000;}
+TD.autor span {background:#ffffcc; font-size: 8pt; font-family: Arial; font-weight:bold; color:#009900; text-align: justify; border-color:#000000;}
+
+TD.tresciowo {background-image:none; font-size: 9pt; font-family: Arial; font-weight:normal; color:#000000; text-align: center; border-color:#000000;}
+TD.tresciowo2 {background-image:none; font-size: 9pt; font-family: Arial; font-weight:normal; color:#000000; text-align: left; border-color:#000000;}
+TD.tresciowo3 {background-image:none; font-size: 9pt; font-family: Arial; font-weight:normal; color:#000000; text-align: right; border-color:#000000;}
+
+TD.rok {background-image: none; background-color: transparent; font-size: 18pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center;}
+TD.rok span {background-image: none; background-color: transparent; font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center;}
+
+TD.podtytul {background-image: none; background-color: transparent; font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center;}
+
+
+TD.autor {background:#ffffcc; font-size: 8pt; font-family: Arial; font-weight:bold; color:#003366; text-align: justify; border-color:#000000;}
+TD.autor span {background:#ffffcc; font-size: 8pt; font-family: Arial; font-weight:bold; color:#009900; text-align: justify; border-color:#000000;}
+TD.autor2 {background:#ffffff; font-size: 12pt; font-family: Times New Roman; font-weight:bold; color:#000000; text-align: justify; border-color:#000000;}
+
+TD.duzymetro {background-color:660099; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzyzwykly {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyokresowy {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#6600ff; text-align: center; border:1px; border-color:#000000;}
+TD.duzypodm {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border:1px; border-color:#000000;}
+TD.duzylokalny {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#005555; text-align: center; border:1px; border-color:#000000;}
+TD.duzyskm {background:#ddddff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyposp {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyekspresowy {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#660099; text-align: center; border:1px; border-color:#000000;}
+TD.duzypospnoc {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border:1px; border-color:#cc0000;}
+TD.duzynoc {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#ffffff;}
+TD.duzytram {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzytramok {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#0033ff; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramsez {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#990099; text-align: center; border:1px; border-color:#000000;}
+TD.duzytrampodm {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramnoc {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#aaffff; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramnocpodm {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#99ff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramcmen {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#990000; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramkonny {background:#33ccff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzycmen {background:#990000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzyczarny {background:#333333; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border:1px; border-color:#000000;}
+TD.duzyczarny4 {background:#333333; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border:1px; border-color:#000000;}
+TD.duzysezonowy {background:#ffffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border:1px; border-color:#000000;}
+TD.duzytrol {background:#99ff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzytrolnocny {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#99ff00; text-align: center; border: solid red; border-width:3pt;}
+TD.duzymikrobus {background-color:66ffcc; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border:1px; border-color:#000000;}
+TD.duzymikrobuspodm {background-color:66ffcc; font-size: 24pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border:1px; border-color:#000000;}
+
+TD.duzymetro4 {background-color:660099; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzyzwykly4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyokresowy4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#6600ff; text-align: center; border:1px; border-color:#000000;}
+TD.duzypodm4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border:1px; border-color:#000000;}
+TD.duzylokalny4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#005555; text-align: center; border:1px; border-color:#000000;}
+TD.duzyskm4 {background:#ddddff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyposp4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border:1px; border-color:#000000;}
+TD.duzyekspresowy4 {background:#ffff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#660099; text-align: center; border:1px; border-color:#000000;}
+TD.duzypospnoc4 {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ff0000; text-align: center; border:1px; border-color:#cc0000;}
+TD.duzynoc4 {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#ffffff;}
+TD.duzytram4 {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzytramok4 {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#0033ff; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramsez4 {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#990099; text-align: center; border:1px; border-color:#000000;}
+TD.duzytrampodm4 {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramnoc4 {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#aaffff; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramnocpodm4 {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#99ff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramcmen4 {background:#ccffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#990000; text-align: center; border:1px; border-color:#000000;}
+TD.duzytramkonny4 {background:#33ccff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzycmen4 {background:#990000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border:1px; border-color:#000000;}
+TD.duzysezonowy4 {background:#ffffff; font-size: 24pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border:1px; border-color:#000000;}
+TD.duzytrol4 {background:#99ff00; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border: solid red; border-width:3pt;}
+TD.duzytrolnocny4 {background:#000000; font-size: 24pt; font-family: Arial; font-weight:bold; color:#99ff00; text-align: center; border: solid red; border-width:3pt;}
+TD.duzymikrobus4 {background-color:66ffcc; font-size: 24pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border:1px; border-color:#000000;}
+TD.duzymikrobuspodm4 {background-color:66ffcc; font-size: 24pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border:1px; border-color:#000000;}
+
+
+TD.1 {background:#ffffff; font-size: 8pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.1 span {background:#ffffff; font-size: 8pt; font-family: Arial; font-weight:bold; color:#660000; text-align: center; border-color:#cc0000;}
+
+TD.uwagi {background:#ffffff; font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.uwagi span {background:#ffffff; font-size: 9pt; font-family: Arial; font-weight:bold; color:#660000; text-align: center; border-color:#cc0000;}
+TD.uwagi2 {background:#ffff00; font-size: 10pt; font-family: Arial; font-weight:bold; color:#660000; text-align: center; border-color:#cc0000;}
+TD.uwagi3 {background:#ffffff;font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal;  color:#000000; text-align: left; border-color:#cc0000;}
+TD.uwagi3 span {background:#ffffff;font-size: 11pt; font-family: Tahoma, Arial; font-weight:bold; color:#660000; text-align: left; border-color:#cc0000;}
+
+TD.tytul {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.tytul2 {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.tytul3 {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+
+TD.nieznane {background:#cc0000;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border-color:#cc0000;}
+
+TD.data {background:#ffffff;font-size: 8pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.data span {background:#ffffff; font-size: 8pt; font-family: Arial; font-weight:bold; color:#660000; text-align: center; border-color:#cc0000;}
+TD.data2 {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.data2 span {background:#ffffff; font-size: 10pt; font-family: Arial; font-weight:bold; color:#660000; text-align: center; border-color:#cc0000;}
+TD.data3 {background:#ffffff;font-size: 12pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.data3 span {background:#ffffff; font-size: 8pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+
+
+TD.trasa {background:#ffffff;font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal;  color:#000000; text-align: left; border-color:#cc0000;}
+TD.trasa2 {background-image: url(./kalendarium/tlo_kalendarium2.gif); font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal;  color:#000000; text-align: center; border-color:#cc0000;}
+TD.trasao {background:#ffffff;font-size: 8pt; font-family: Tahoma, Arial; font-weight:normal; color:#000000; text-valign:top; text-align: left; border-color:#cc0000;}
+TD.trasao span {background:#ffffff;font-size: 8pt; font-family: Tahoma, Arial; font-weight:bold; color:#cc0000; text-valign:top; text-align: left; border-color:#cc0000;}
+TD.trasa span {background:#ffffff;font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal; color:#cc0000; text-align: left; border-color:#cc0000;}
+TD.trasalikw {background:#111111;font-size: 16pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: left; border-color:#cc0000;}
+TD.trasalikw span {background:#111111;font-size: 10pt; font-family: Tahoma, Arial; font-weight:bold; color:#ffff00; text-align: left; border-color:#cc0000;}
+TD.trasazaw {background:#660099;font-size: 16pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: left; border-color:#cc0000;}
+TD.trasazaw span{background:#660099;font-size: 10pt; font-family: Tahoma, Arial; font-weight:bold; color:#ffffff; text-align: left; border-color:#cc0000;}
+
+TD.info {background:#ffffdd;font-size: 10pt; font-family: Tahoma, Arial; font-weight:bold; color:#880000; text-align: left; border-color:#cc0000;}
+TD.info span {background:#ffffdd;font-size: 10pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align: left; border-color:#cc0000;}
+
+TD.rodzajkolej {background:#663399;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border-color:#cc0000;}
+TD.rodzajskm {background:#ddddff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border-color:#cc0000;}
+TD.rodzajskmpodmiejski {background:#ddddff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border-color:#cc0000;}
+TD.rodzajskmpodmiejskiokresowy {background:#ddddff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border-color:#cc0000;}
+TD.rodzajskmokresowy {background:#ddddff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+TD.rodzajtramzwykly {background:#ccffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajtramokresowy {background:#ccffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0033ff; text-align: center; border-color:#cc0000;}
+TD.rodzajtrampodmiejski {background:#ccffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border-color:#cc0000;}
+TD.rodzajtramnocny {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:#99ffff; text-align: center; border-color:#cc0000;}
+TD.rodzajtramswiateczny {background:#ccffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+TD.rodzajtramcmentarny {background:#990000;font-size: 10pt; font-family: Arial; font-weight:bold; color:#99ffff; text-align: center; border-color:#cc0000;}
+TD.rodzajtramkonnyzwykly {background:#33ccff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajtramkonnyokresowy {background:#33ccff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+TD.rodzajtramkonnyswiateczny {background:#33ccff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#990066; text-align: center; border-color:#cc0000;}
+TD.rodzajtrolzwykly {background:#99ff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajtrolpodmiejski {background:#99ff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border-color:#cc0000;}
+TD.rodzajtrolokresowy {background:#99ff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+TD.rodzajtrolnocny {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:#99ff00; text-align: center; border-color:#cc0000;}
+TD.rodzajbuszwykly {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajautotramzwykly {background:#eeee77;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajmetrozwykly {background:#660099;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border-color:#cc0000;}
+TD.rodzajbuscmentarny {background:#990000;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border-color:#cc0000;}
+TD.rodzajbuscmentarnyzwykly {background:#990000;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align: center; border-color:#cc0000;}
+TD.rodzajbuszastepczy {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajbushipermarketowy {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#3300ff; text-align: center; border-color:#cc0000;}
+TD.rodzajbusprywatny {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajbusnocny {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: center; border-color:#cc0000;}
+TD.rodzajbusnocnyokresowy {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:#00eeff; text-align: center; border-color:#cc0000;}
+TD.rodzajbusnocnypodmiejski {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:aaff00; text-align: center; border-color:#cc0000;}
+TD.rodzajbusnocnypospieszny {background:#111111;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ff0000; text-align: center; border-color:#cc0000;}
+TD.rodzajbusokresowy {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0033ff; text-align: center; border-color:#cc0000;}
+TD.rodzajbusswiateczny {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+TD.rodzajbusprzyspieszony {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#ff3300; text-align: center; border-color:#cc0000;}
+TD.rodzajbuspospieszny {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border-color:#cc0000;}
+TD.rodzajbuspospiesznyx {background:#ffff00;font-size: 12pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center;}
+TD.rodzajbusekspresowy {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#660099; text-align: center; border-color:#cc0000;}
+TD.rodzajbusekspresowystaly {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#bb0099; text-align: center; border-color:#cc0000;}
+TD.rodzajbusszkolny {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#00aaff; text-align: center; border-color:#cc0000;}
+TD.rodzajbuspodmiejski {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border-color:#cc0000;}
+TD.rodzajbuspodmiejskiokresowy {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#00bb00; text-align: center; border-color:#cc0000;}
+TD.rodzajbuslokalny {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006666; text-align: center; border-color:#cc0000;}
+TD.rodzajbuslokalnyokresowy {background:#ffff00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#009999; text-align: center; border-color:#cc0000;}
+TD.rodzajbussezonowy {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#006600; text-align: center; border-color:#cc0000;}
+TD.rodzajbussezonowypospieszny {background:#ffffff;font-size: 10pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border-color:#cc0000;}
+TD.rodzajomnizwykly {background:#ffcc00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajomnibuszwykly {background:#ffcc00;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajmikrobuszwykly {background:#66ffcc;font-size: 10pt; font-family: Arial; font-weight:bold; color:#000000; text-align: center; border-color:#cc0000;}
+TD.rodzajmikrobuspodmiejski {background:#66ffcc;font-size: 10pt; font-family: Arial; font-weight:bold; color:#009900; text-align: center; border-color:#cc0000;}
+TD.rodzajmikrobuspospieszny {background:#66ffcc;font-size: 10pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align: center; border-color:#cc0000;}
+TD.rodzajmikrobusokresowy {background:#66ffcc;font-size: 10pt; font-family: Arial; font-weight:bold; color:#0000ff; text-align: center; border-color:#cc0000;}
+
+
+
+
+
+TD.numer {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numerszary {background:#aaaaaa;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numer2 {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numers {background:#eeeeee;font-size: 9pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numer span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numer2 span{background:#ffffff;font-size: 12pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numers span {background:#eeeeee;font-size: 9pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numerzolty {background:#ffff00;font-size: 22pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numermaly {background:#ffffff;font-size: 7pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numernocny {background:#111111;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numernocnya {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numernocny span{background:#111111;font-size: 14pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerswiateczny {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerswiateczny2 {background:#009900;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerswiatecznymaly {background:#ffffff;font-size: 9pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerswiateczny span {background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerokresowy {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numerokresowy span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numerpospieszny {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpospieszny span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpospieszny2 {background:#ffff00;font-size: 22pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpospieszny2 span{background:#ffff00;font-size: 14pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numercmentarny {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#440000; text-align:center; border-color:#cc0000;}
+TD.numercmentarny span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#440000; text-align:center; border-color:#cc0000;}
+TD.numerniebieski {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#0099ff; text-align:center; border-color:#cc0000;}
+TD.numerniebieski span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#0099ff; text-align:center; border-color:#cc0000;}
+TD.numerprzyspieszony {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerprzyspieszony span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejski {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejski span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejskiodwrotny {background:#006600;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejskiokresowy {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejskiokresowy span{background:#ffffff;font-size: 14pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerniebieski2 {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#0033ff; text-align:center; border-color:#cc0000;}
+TD.numerpomaranczowy {background:#ffffff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ff6600; text-align:center; border-color:#cc0000;}
+
+TD.numermetro {background:#ffffff;font-size: 1pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numermetro2 {background:#0033ff;font-size: 8pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numermetro3 {background:#000000;font-size: 8pt; font-family: Arial; font-weight:bold; color:#00cc00; text-align:center; border-color:#cc0000;}
+TD.numermetrom1 {background:#0033ff;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numermetrom2 {background:#cc0000;font-size: 22pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+
+TD.numeromnibus1 {background:#ff0000;font-size: 1pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numeromnibus2 {background:#ff0000;font-size: 1pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align:center; border-color:#cc0000;}
+TD.numeromnibus3 {background:#000099;font-size: 1pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+
+TD.numerzabiawolarozowy {background:#cc0099;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolabrazowy {background:#993300;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolapomaranczowy {background:#ff6633;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolaniebieski {background:#6699cc;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolajasnoniebieski {background:#33ccff;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolazielony {background:#009966;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolajasnozielony {background:#99cc66;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolaczerwony {background:#ff0000;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolazolty {background:#ffff00;font-size: 25pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolabordowy {background:#993366;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolafioletowy {background:#660066;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerzabiawolaciemnopomaranczowy {background:#ff3300;font-size: 25pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+
+TD.numergparozowy {background:#cc0066;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpajasnorozowy {background:#ee99cc;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpabrazowy {background:#663300;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpajasnobrazowy {background:#996600;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpapomaranczowy {background:#ff6600;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpaniebieski {background:#003399;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpajasnoniebieski {background:#0099cc;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpazielony {background:#007755;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpajasnozielony {background:#55aa22;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpaczerwony {background:#cc0033;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpazolty {background:#ffff00;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numergpabordowy {background:#993366;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpafioletowy {background:#9933cc;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numergpaciemnopomaranczowy {background:#ff3300;font-size: 25pt; font-family: Arial Narrow; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+
+
+TD.taborobsluga {background:#ffffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobsluga span {background:#ffffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie {background:#ffeeff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie span {background:#ffeeff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub {background:#eeffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub span {background:#eeffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie1 {background:#ffddff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie1 span {background:#ffddff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub1 {background:#ffccff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub1 span {background:#ffccff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie2 {background:#ddffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie2 span {background:#ddffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub2 {background:#ccffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub2 span {background:#ccffff;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie3 {background:#ffffdd;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie3 span {background:#ffffdd;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub3 {background:#ffffcc;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub3 span {background:#ffffcc;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie4 {background:#ccff88;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie4 span {background:#ccff88;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub4 {background:#ccff55;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub4 span {background:#ccff55;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie5 {background:#666666;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugakrotkie5 span {background:#666666;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub5 {background:#666666;font-size: 14pt; font-family: Tahoma, Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.taborobslugaprzegub5 span {background:#666666;font-size: 14pt; font-family: Tahoma, Arial; font-weight:normal; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numerobsluga {background:#ffffff;font-size: 16pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.numernocnyobsluga {background:#111111;font-size: 16pt; font-family: Arial; font-weight:bold; color:#ffffff; text-align:center; border-color:#cc0000;}
+TD.numerpospiesznyobsluga {background:#ffffff;font-size: 16pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpospieszny2obsluga {background:#ffff00;font-size: 16pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numerpodmiejskiobsluga {background:#ffffff;font-size: 16pt; font-family: Arial; font-weight:bold; color:#006600; text-align:center; border-color:#cc0000;}
+TD.numercmentarnypobsluga {background:#ffffff;font-size: 12pt; font-family: Arial; font-weight:bold; color:#cc0000; text-align:center; border-color:#cc0000;}
+TD.numercmentarnyobsluga {background:#ffffff;font-size: 12pt; font-family: Arial; font-weight:bold; color:#000000; text-align:center; border-color:#cc0000;}
+TD.trasaobsluga {background:#ffffff;font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal;  color:#000000; text-align: center; border-color:#cc0000;}
+TD.trasaobslugazmiana {background:#dddddd;font-size: 10pt; font-family: Tahoma, Arial; font-weight:normal;  color:#000000; text-align: center; border-color:#cc0000;}
+
+
+
+TD.przerwa2 {background:#000000;font-size: 1px; font-family: Arial; font-weight:bold; color:#000000; text-align:center;}
+
+H1 {background:#000000;font-size: 9pt; font-family: Arial; font-weight:bold; color:#ffff00; text-align: left; border-color:#cc0000;}

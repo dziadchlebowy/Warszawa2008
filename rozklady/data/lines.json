@@ -1,0 +1,56 @@
+[
+    {
+        "id": "144",
+        "name": "144",
+        "type": "bus",
+        "description": "linia zwykła"
+    },
+    {
+        "id": "211",
+        "name": "211",
+        "type": "bus",
+        "description": "linia zwykła"
+    },
+    {
+        "id": "404",
+        "name": "404",
+        "type": "bus",
+        "description": "linia przyspieszona"
+    },
+    {
+        "id": "508",
+        "name": "508",
+        "type": "bus",
+        "description": "linia przyspieszona"
+    },
+    {
+        "id": "511",
+        "name": "511",
+        "type": "bus",
+        "description": "linia przyspieszona"
+    },
+    {
+        "id": "516",
+        "name": "516",
+        "type": "bus",
+        "description": "linia przyspieszona"
+    },
+    {
+        "id": "E4",
+        "name": "E4",
+        "type": "bus",
+        "description": "linia ekspresowa"
+    },
+    {
+        "id": "E8",
+        "name": "E8",
+        "type": "bus",
+        "description": "linia ekspresowa"
+    },
+    {
+        "id": "N63",
+        "name": "N63",
+        "type": "bus",
+        "description": "linia zwykła"
+    }
+]

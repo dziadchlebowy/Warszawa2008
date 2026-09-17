@@ -1,0 +1,392 @@
+{
+    "line": "E4",
+    "type": "bus",
+    "description": "linia ekspresowa",
+    "validFrom": "2026-09-17",
+    "routes": [
+        {
+            "id": "TP-MET",
+            "name": "TP-MET",
+            "from": "TARCHOMIN",
+            "to": "METRO MARYMONT",
+            "stops": [
+                {
+                    "street": "Świętosławskiego",
+                    "name": "TARCHOMIN",
+                    "travelTime": 0,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Świderska"
+                },
+                {
+                    "street": "Ćmielowska"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "TARCHOMIN",
+                    "travelTime": 1,
+                    "number": "01",
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MYŚLIBORSKA",
+                    "travelTime": 2,
+                    "number": "01",
+                    "groupId": "0028"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "BIAŁOŁĘKA-RATUSZ",
+                    "travelTime": 3,
+                    "number": "01",
+                    "groupId": "0016"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 5,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Most Grota-Roweckiego"
+                },
+                {
+                    "street": "Al. Armii Krajowej"
+                },
+                {
+                    "street": "Słowackiego"
+                },
+                {
+                    "street": "Włościańska",
+                    "name": "METRO MARYMONT",
+                    "travelTime": 6,
+                    "number": "11",
+                    "groupId": "0034"
+                },
+                {
+                    "street": "Włościańska",
+                    "name": "METRO MARYMONT",
+                    "travelTime": 7,
+                    "number": "12",
+                    "terminus": true,
+                    "groupId": "0034"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "5": [
+                        4,
+                        9,
+                        14,
+                        19,
+                        24,
+                        30,
+                        34,
+                        38,
+                        43,
+                        48,
+                        53,
+                        57
+                    ],
+                    "6": [
+                        2,
+                        7,
+                        12,
+                        18,
+                        23,
+                        28,
+                        33,
+                        38,
+                        42,
+                        47,
+                        52,
+                        57
+                    ],
+                    "7": [
+                        2,
+                        6,
+                        11,
+                        17,
+                        22,
+                        27,
+                        33,
+                        39,
+                        44,
+                        48,
+                        53,
+                        58
+                    ],
+                    "8": [
+                        4,
+                        8,
+                        13,
+                        18,
+                        23,
+                        29,
+                        34,
+                        38,
+                        44,
+                        50,
+                        55
+                    ],
+                    "10": [
+                        19
+                    ],
+                    "15": [
+                        1,
+                        6,
+                        11,
+                        16,
+                        21,
+                        26,
+                        31,
+                        37,
+                        41,
+                        47,
+                        53,
+                        58
+                    ],
+                    "16": [
+                        3,
+                        7,
+                        12,
+                        17,
+                        21,
+                        26,
+                        31,
+                        37,
+                        42,
+                        47,
+                        52,
+                        57
+                    ],
+                    "17": [
+                        2,
+                        7,
+                        12,
+                        18,
+                        23,
+                        27,
+                        32,
+                        38,
+                        43,
+                        48,
+                        53,
+                        58
+                    ],
+                    "18": [
+                        2,
+                        7,
+                        12,
+                        17,
+                        21,
+                        25,
+                        30,
+                        35,
+                        41,
+                        46,
+                        50,
+                        56
+                    ],
+                    "19": [
+                        37
+                    ]
+                },
+                "saturday": {
+                    "5": [
+                        26
+                    ]
+                }
+            }
+        },
+        {
+            "id": "TP-TAR",
+            "name": "TP-TAR",
+            "from": "METRO MARYMONT",
+            "to": "TARCHOMIN",
+            "stops": [
+                {
+                    "street": "Włościańska",
+                    "name": "METRO MARYMONT",
+                    "travelTime": 0,
+                    "number": "12",
+                    "terminus": true,
+                    "groupId": "0034"
+                },
+                {
+                    "street": "Żelazowska"
+                },
+                {
+                    "street": "Al. Armii Krajowej"
+                },
+                {
+                    "street": "Most Grota-Roweckiego"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 1,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "BIAŁOŁĘKA-RATUSZ",
+                    "travelTime": 2,
+                    "number": "03",
+                    "groupId": "0016"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MYŚLIBORSKA",
+                    "travelTime": 3,
+                    "number": "02",
+                    "groupId": "0028"
+                },
+                {
+                    "street": "Świętosławskiego",
+                    "name": "TARCHOMIN",
+                    "travelTime": 5,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0012"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "5": [
+                        2,
+                        7,
+                        13,
+                        18,
+                        23,
+                        28,
+                        32,
+                        37,
+                        42,
+                        46,
+                        52,
+                        57
+                    ],
+                    "6": [
+                        3,
+                        8,
+                        13,
+                        18,
+                        22,
+                        27,
+                        32,
+                        37,
+                        42,
+                        47,
+                        51,
+                        56
+                    ],
+                    "7": [
+                        2,
+                        6,
+                        11,
+                        16,
+                        21,
+                        26,
+                        31,
+                        35,
+                        39,
+                        44,
+                        49,
+                        54,
+                        59
+                    ],
+                    "8": [
+                        5,
+                        11,
+                        16,
+                        21,
+                        25,
+                        30,
+                        35,
+                        39,
+                        44,
+                        49,
+                        54,
+                        59
+                    ],
+                    "10": [
+                        4
+                    ],
+                    "15": [
+                        4,
+                        9,
+                        15,
+                        20,
+                        24,
+                        30,
+                        36,
+                        41,
+                        46,
+                        52,
+                        58
+                    ],
+                    "16": [
+                        2,
+                        7,
+                        12,
+                        17,
+                        22,
+                        26,
+                        31,
+                        36,
+                        41,
+                        46,
+                        51,
+                        55
+                    ],
+                    "17": [
+                        0,
+                        6,
+                        11,
+                        15,
+                        20,
+                        25,
+                        31,
+                        36,
+                        40,
+                        45,
+                        49,
+                        54
+                    ],
+                    "18": [
+                        0,
+                        4,
+                        9,
+                        13,
+                        18,
+                        23,
+                        27,
+                        31,
+                        36,
+                        41,
+                        45,
+                        50,
+                        55
+                    ],
+                    "21": [
+                        18
+                    ]
+                },
+                "saturday": {
+                    "23": [
+                        27
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+E8	linia ekspresowa							
+								
+Kierunek: METRO MARYMONT					Kierunek: NOWODWORY			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Światowida	NOWODWORY	07	K		Włościańska	METRO MARYMONT	13	K
+	NOWODWORY	01			Żelazowska			
+	STEFANIKA	01			Al. Armii Krajowej			
+	MEHOFFERA	01			Most Grota-Roweckiego			
+Modlińska					Modlińska			
+Most Grota-Roweckiego					Światowida	MEHOFFERA	02	
+Al. Armii Krajowej						STEFANIKA	02	
+Słowackiego						NOWODWORY	02	
+Włościańska	METRO MARYMONT	11				NOWODWORY	07	K
+	METRO MARYMONT	13	K					
+
+5/420/1440

@@ -1,0 +1,19 @@
+{
+    "id": "0003",
+    "name": "ALUZYJNA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

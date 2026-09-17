@@ -1,0 +1,45 @@
+{
+    "id": "0023",
+    "name": "ŻERAŃ FSO",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "09": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "144",
+                "N63"
+            ],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "14": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "516"
+            ],
+            "alightingOnly": []
+        }
+    }
+}

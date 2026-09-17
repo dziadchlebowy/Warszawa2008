@@ -1,0 +1,32 @@
+{
+    "id": "0001",
+    "name": "DĄBRÓWKA SZLACHECKA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "03": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "144",
+                "N63"
+            ],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

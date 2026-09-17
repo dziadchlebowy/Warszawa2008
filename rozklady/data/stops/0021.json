@@ -1,0 +1,32 @@
+{
+    "id": "0021",
+    "name": "KANAŁ ŻERAŃSKI",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

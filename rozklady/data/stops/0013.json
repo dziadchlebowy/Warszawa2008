@@ -1,0 +1,36 @@
+{
+    "id": "0013",
+    "name": "KAMIŃSKIEGO",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Ćmielowska"
+            ],
+            "regular": [
+                "144",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Ćmielowska"
+            ],
+            "regular": [
+                "144",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

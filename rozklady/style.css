@@ -1,0 +1,176 @@
+body {
+    background: white;
+    color: black;
+    margin: 8px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+}
+
+.page {
+    width: 100%;
+    margin: 0;
+}
+
+/* Cała zawartość stron linii, tras i przystanków */
+#line-header,
+#route-header,
+#stop-header,
+#timetable, #timetable a {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+    text-align: left;
+}
+
+pre {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+}
+
+.title {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.line-number {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.line-description {
+    font-size: 18px;
+}
+
+/* =========================================
+   TABELA TRASY
+   ========================================= */
+
+#routes,
+#stops {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+}
+
+/* =========================================
+   LISTA LINII
+   ========================================= */
+
+.lines-list,
+#lines {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: left;
+
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 16px;
+}
+
+#lines {
+    white-space: pre;
+}
+
+.line-cell {
+    display: inline-block;
+    width: 3ch;
+    margin-right: 2ch;
+    text-align: right;
+}
+
+.routes {
+    text-align: left;
+}
+
+.stop-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.stop-link:visited {
+    color: blue;
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+/* =========================================
+   ROZKŁAD
+   ========================================= */
+
+.timetable,
+.stop-info,
+.stop-header {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+    white-space: pre;
+    text-align: left;
+}
+
+.route-content {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+}
+
+/* =========================================
+   ZESPÓŁ PRZYSTANKOWY
+   ========================================= */
+
+.group-header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.group-info {
+    font-family: Consolas, monospace;
+    font-size: 16px;
+    white-space: pre;
+    text-align: left;
+}
+
+#stop-info {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 13px;
+}
+
+#groups {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stop-index * {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px !important;
+    margin-bottom: 15px;
+}
+
+.stop-list * {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 16px !important;
+    white-space: pre;
+    margin: 0;
+}
+
+.stop-list,
+.stop-list a {
+    font-family: Consolas, "Courier New", monospace;
+    font-size: 16px !important;
+}

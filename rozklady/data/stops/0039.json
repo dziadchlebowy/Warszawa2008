@@ -1,0 +1,30 @@
+{
+    "id": "0039",
+    "name": "MILENIJNA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "02": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "id": "0020",
+    "name": "KONWALIOWA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144",
+                "404",
+                "508",
+                "511",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144",
+                "404",
+                "508",
+                "511",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

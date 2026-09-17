@@ -1,0 +1,46 @@
+{
+    "id": "0016",
+    "name": "BIAŁOŁĘKA-RATUSZ",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "E4",
+                "144",
+                "511",
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "03": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "E4",
+                "144",
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "511"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "0038",
+    "name": "CIOŁKOSZA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "04": {
+            "streets": [
+                "Stefanika"
+            ],
+            "regular": [
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Odkryta"
+            ],
+            "regular": [
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "0026",
+    "name": "DZIERZGOŃSKA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Dzierzgońska"
+            ],
+            "regular": [
+                "211",
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Dzierzgońska"
+            ],
+            "regular": [
+                "211",
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

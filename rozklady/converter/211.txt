@@ -1,0 +1,14 @@
+211	linia zwykła							
+								
+Kierunek: DĄBRÓWKA WIŚLANA					Kierunek: NOWODWORY			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Światowida	NOWODWORY	10	K		Aluzyjna	DĄBRÓWKA WIŚLANA	01	K
+	GRZYMALITÓW	02			Sprawna			
+Dzierzgońska	DZIERZGOŃSKA	01			Odkryta			
+Odkryta					Dzierzgońska	DZIERZGOŃSKA	02	
+Sprawna					Światowida	GRZYMALITÓW	01	
+Aluzyjna	DĄBRÓWKA WIŚLANA	01	K		zawrotka na rondzie			
+					Światowida	NOWODWORY	02	
+						NOWODWORY	10	K
+
+15/20/20

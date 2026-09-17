@@ -1,0 +1,24 @@
+516	linia przyspieszona							
+								
+Kierunek: ŻERAŃ FSO					Kierunek: NOWODWORY			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Światowida	NOWODWORY	10			Modlińska	ŻERAŃ FSO	14	K
+	GRZYMALITÓW	02	NŻ			ŻERAŃ FSO	02	
+Dzierzgońska	DZIERZGOŃSKA	01				KONWALIOWA	02	
+Odkryta	BAREI	01			Światowida	BIAŁOŁĘKA-RATUSZ	03	
+	HANKI ORDONÓWNY	01			Milenijna			
+Stefanika	CIOŁKOSZA	04			Ćmielowska	ĆMIELOWSKA	02	
+Światowida	STEFANIKA	01				KAMIŃSKIEGO	02	
+	MEHOFFERA	01			Światowida	TARCHOMIN	02	
+Ćmielowska	TARCHOMIN	04				MEHOFFERA	02	
+	KAMIŃSKIEGO	01			Stefanika	STEFANIKA	03	
+Milenijna	ĆMIELOWSKA	01			Odkryta	CIOŁKOSZA	02	
+Światowida						HANKI ORDONÓWNY	02	
+Modlińska	BIAŁOŁĘKA-RATUSZ	01				BAREI	02	
+	KONWALIOWA	01			Dzierzgońska	DZIERZGOŃSKA	02	
+	ŻERAŃ FSO	14	K		Światowida	GRZYMALITÓW	01	NŻ
+					zawrotka na rondzie			
+					Światowida	NOWODWORY	02	
+						NOWODWORY	10	K
+
+8/15/15

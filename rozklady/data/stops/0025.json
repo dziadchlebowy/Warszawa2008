@@ -1,0 +1,34 @@
+{
+    "id": "0025",
+    "name": "GRZYMALITÓW",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "02": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "211"
+            ],
+            "request": [
+                "516"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "211"
+            ],
+            "request": [
+                "516"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

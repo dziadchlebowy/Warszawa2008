@@ -1,0 +1,30 @@
+{
+    "id": "0035",
+    "name": "KLASYKÓW",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "511"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "511"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

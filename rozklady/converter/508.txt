@@ -1,0 +1,26 @@
+508	linia przyspieszona							
+								
+Kierunek: METRO MARYMONT					Kierunek: NOWODWORY			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Światowida	NOWODWORY	11	K		Włościańska	METRO MARYMONT	14	K
+	NOWODWORY	01			Żelazowska			
+	STEFANIKA	01			Al. Armii Krajowej	PARK KASKADA	05	
+	MEHOFFERA	01				OS.POTOK	03	
+	TARCHOMIN	01			Most Grota-Roweckiego			
+Świętosławskiego					Modlińska	KONWALIOWA	02	
+Świderska						PŁOCHOCIŃSKA	02	
+Porajów	PICASSA	01				EKSPRESOWA	02	
+Myśliborska	PORAJÓW	01			Obrazkowa			
+Obrazkowa					Myśliborska			
+					Porajów	PORAJÓW	04	
+Modlińska	EKSPRESOWA	01			Świderska	PICASSA	02	
+	PŁOCHOCIŃSKA	01				TARCHOMIN	08	
+	KONWALIOWA	01				PANCERA	02	
+Most Grota-Roweckiego					Mehoffera			
+Al. Armii Krajowej	OS.POTOK	04			Światowida	MEHOFFERA	02	
+	PARK KASKADA	06				STEFANIKA	02	
+Słowackiego						NOWODWORY	02	
+Włościańska	METRO MARYMONT	11				NOWODWORY	11	K
+	METRO MARYMONT	14	K					
+
+5/8/10

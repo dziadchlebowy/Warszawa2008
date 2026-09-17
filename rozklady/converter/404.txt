@@ -1,0 +1,20 @@
+404	linia przyspieszona							
+								
+Kierunek: PARK OLSZYNA					Kierunek: TARCHOMIN			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Świętosławskiego	TARCHOMIN	07	K		Al. Armii Krajowej	PARK OLSZYNA	05	K
+Świderska	PANCERA	02				PARK KASKADA	05	
+Mehoffera						OS.POTOK	03	
+Światowida	MEHOFFERA	01			Most Grota-Roweckiego			
+	TARCHOMIN	01			Modlińska	KONWALIOWA	02	
+Myśliborska	MYŚLIBORSKA	03			Obrazkowa			
+	PORAJÓW	01			Myśliborska	PORAJÓW	02	
+Obrazkowa					Światowida	MYŚLIBORSKA	02	
+Modlińska					Świętosławskiego	TARCHOMIN	07	K
+	KONWALIOWA	01						
+Most Grota-Roweckiego								
+Al. Armii Krajowej	OS.POTOK	04						
+	PARK KASKADA	06						
+	PARK OLSZYNA	05	K					
+
+15/420/1440

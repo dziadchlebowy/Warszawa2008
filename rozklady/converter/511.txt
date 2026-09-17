@@ -1,0 +1,18 @@
+511	linia przyspieszona							
+								
+Kierunek: METRO MARYMONT					Kierunek: DĄBRÓWKA WIŚLANA			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Aluzyjna	DĄBRÓWKA WIŚLANA	01	K		Włościańska	METRO MARYMONT	15	K
+Modlińska	POETÓW	01			Żelazowska			
+	HENRYKÓW	01	NŻ		Al. Armii Krajowej	PARK KASKADA	05	
+	KLASYKÓW	01	NŻ			OS.POTOK	03	
+	BIAŁOŁĘKA-RATUSZ	01			Most Grota-Roweckiego			
+	KONWALIOWA	01			Modlińska	KONWALIOWA	02	
+Most Grota-Roweckiego						BIAŁOŁĘKA-RATUSZ	02	
+Al. Armii Krajowej	OS.POTOK	04				KLASYKÓW	02	NŻ
+	PARK KASKADA	06				HENRYKÓW	02	NŻ
+Słowackiego						POETÓW	02	
+Włościańska	METRO MARYMONT	11			Aluzyjna	DĄBRÓWKA WIŚLANA	01	K
+	METRO MARYMONT	15	K					
+	
+6/15/20

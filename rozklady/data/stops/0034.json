@@ -1,0 +1,66 @@
+{
+    "id": "0034",
+    "name": "METRO MARYMONT",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "11": {
+            "streets": [
+                "Włościańska"
+            ],
+            "regular": [
+                "E4",
+                "E8",
+                "508",
+                "511"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "14": {
+            "streets": [
+                "Włościańska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "508"
+            ],
+            "alightingOnly": []
+        },
+        "15": {
+            "streets": [
+                "Włościańska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "511"
+            ],
+            "alightingOnly": []
+        },
+        "12": {
+            "streets": [
+                "Włościańska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "E4"
+            ],
+            "alightingOnly": []
+        },
+        "13": {
+            "streets": [
+                "Włościańska"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "E8"
+            ],
+            "alightingOnly": []
+        }
+    }
+}

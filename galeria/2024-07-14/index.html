@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Stan prac na 14.07.2024 — Warszawa 2008</title>
+  <meta name="description" content="Stan prac nad projektem Warszawa 2008 z 14 lipca 2024 roku.">
+  <link rel="stylesheet" href="../../css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__overlay">
+      <div class="container">
+        <div class="brand">Warszawa 2008</div>
+        <h1>Stan prac na 14.07.2024</h1>
+        <p>Fotogaleria</p>
+      </div>
+    </div>
+  </header>
+
+<nav class="nav" aria-label="Główna nawigacja">
+  <div class="container nav__inner">
+
+    <a class="nav__link" href="../../index.html">
+      strona główna
+    </a>
+
+    <div class="nav__dropdown">
+      <button class="nav__link nav__dropdown-toggle" type="button" aria-haspopup="true">
+        rozkłady jazdy
+      </button>
+
+      <div class="nav__dropdown-menu">
+        <a href="../../rozklady/index.html">wg linii</a>
+        <a href="../../rozklady/zespoly.html">wg przystanków</a>
+      </div>
+    </div>
+	
+    <a class="nav__link" href="../../linie/index.html">
+      spis linii
+    </a>
+
+    <a class="nav__link nav__link--active" href="../../galeria/index.html">
+      fotogaleria
+    </a>
+
+  </div>
+</nav>
+
+  <main class="container content">
+    <div class="breadcrumbs">
+      <a href="../index.html">Fotogaleria</a>
+      <span>›</span>
+      <span>14.07.2024</span>
+    </div>
+
+    <section class="section">
+      <div class="section__heading">
+        <span class="eyebrow">14.07.2024</span>
+        <h2>Stan prac na 14.07.2024</h2>
+      </div>
+
+      <div class="photo-grid">
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/01.jpg" alt="Pętla Nowodwory — w stronę wyjazdu"><figcaption>Pętla Nowodwory - w stronę wyjazdu</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/02.jpg" alt="Rondo Myśliborska, Świderska i Obrazkowa"><figcaption>Rondo Myśliborska x Świderska x Obrazkowa</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/03.jpg" alt="Ulica Obrazkowa"><figcaption>Ulica Obrazkowa</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/04.jpg" alt="Odkryta — rejon skrzyżowania z ulicą Barei"><figcaption>Odkryta, rejon skrzyżowania z ul. Barei</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/05.jpg" alt="Skrzyżowanie Modlińskiej i Płochocińskiej"><figcaption>Modlińska x Płochocińska</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/06.jpg" alt="Skrzyżowanie Modlińskiej i Obrazkowej"><figcaption>Modlińska x Obrazkowa</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/07.jpg" alt="Skrzyżowanie Modlińskiej, Kowalczyka i Konwaliowej"><figcaption>Modlińska x Kowalczyka x Konwaliowa</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/08.jpg" alt="Aluzyjna, pętla Dąbrówka Wiślana"><figcaption>Aluzyjna, pętla Dąbrówka Wiślana</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/09.jpg" alt="Pętla Nowodwory — w stronę wjazdu"><figcaption>Pętla Nowodwory - w stronę wjazdu</figcaption></figure>
+        <figure class="photo"><img src="../../img/galeria/2024-07-14/10.jpg" alt="Pętla Żerań FSO"><figcaption>Pętla Żerań FSO</figcaption></figure>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">Warszawa 2008 · projekt mapy do OMSI</div>
+  </footer>
+  
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const photos = Array.from(
+    document.querySelectorAll(".photo img")
+  );
+
+  if (!photos.length) {
+    return;
+  }
+
+  const lightbox = document.createElement("div");
+  lightbox.className = "lightbox";
+
+  lightbox.innerHTML = `
+    <div class="lightbox__stage">
+
+      <button
+        class="lightbox__close"
+        type="button"
+        aria-label="Zamknij"
+      >×</button>
+
+      <div class="lightbox__counter"></div>
+
+      <button
+        class="lightbox__prev"
+        type="button"
+        aria-label="Poprzednie zdjęcie"
+      >‹</button>
+
+      <img class="lightbox__image is-current" alt="">
+
+      <img class="lightbox__image" alt="">
+
+      <button
+        class="lightbox__next"
+        type="button"
+        aria-label="Następne zdjęcie"
+      >›</button>
+
+      <div class="lightbox__caption"></div>
+
+    </div>
+  `;
+
+  document.body.appendChild(lightbox);
+
+  const stage =
+    lightbox.querySelector(".lightbox__stage");
+
+  const closeButton =
+    lightbox.querySelector(".lightbox__close");
+
+  const prevButton =
+    lightbox.querySelector(".lightbox__prev");
+
+  const nextButton =
+    lightbox.querySelector(".lightbox__next");
+
+  const counter =
+    lightbox.querySelector(".lightbox__counter");
+
+  const caption =
+    lightbox.querySelector(".lightbox__caption");
+
+  let imageA =
+    lightbox.querySelectorAll(".lightbox__image")[0];
+
+  let imageB =
+    lightbox.querySelectorAll(".lightbox__image")[1];
+
+  let currentImage = imageA;
+  let incomingImage = imageB;
+
+  let currentIndex = 0;
+  let isAnimating = false;
+
+  let touchStartX = 0;
+  let touchStartY = 0;
+
+
+  /* =====================================================
+     INFORMACJE O ZDJĘCIU
+     ===================================================== */
+
+  function getPhotoInfo(index) {
+
+    const img = photos[index];
+
+    const figure =
+      img.closest("figure");
+
+    const figcaption =
+      figure?.querySelector("figcaption");
+
+    return {
+      src: img.currentSrc || img.src,
+      alt: img.alt || "",
+      caption: figcaption
+        ? figcaption.textContent.trim()
+        : img.alt || ""
+    };
+  }
+
+
+  /* =====================================================
+     WYŚWIETLENIE INFORMACJI
+     ===================================================== */
+
+  function updateInfo(index) {
+
+    const info =
+      getPhotoInfo(index);
+
+    currentImage.src =
+      info.src;
+
+    currentImage.alt =
+      info.alt;
+
+    caption.textContent =
+      info.caption;
+
+    counter.textContent =
+      `${index + 1} / ${photos.length}`;
+  }
+
+
+  /* =====================================================
+     OTWARCIE
+     ===================================================== */
+
+  function openLightbox(index) {
+
+    currentIndex = index;
+    isAnimating = false;
+
+    const info =
+      getPhotoInfo(index);
+
+    currentImage.src =
+      info.src;
+
+    currentImage.alt =
+      info.alt;
+
+    currentImage.className =
+      "lightbox__image is-current";
+
+    incomingImage.className =
+      "lightbox__image";
+
+    caption.textContent =
+      info.caption;
+
+    counter.textContent =
+      `${index + 1} / ${photos.length}`;
+
+    lightbox.classList.add("is-open");
+
+    document.body.style.overflow =
+      "hidden";
+  }
+
+
+  /* =====================================================
+     ZAMKNIĘCIE
+     ===================================================== */
+
+  function closeLightbox() {
+
+    lightbox.classList.remove("is-open");
+
+    document.body.style.overflow =
+      "";
+
+    setTimeout(() => {
+
+      currentImage.className =
+        "lightbox__image is-current";
+
+      incomingImage.className =
+        "lightbox__image";
+
+    }, 220);
+  }
+
+
+  /* =====================================================
+     ZMIANA ZDJĘCIA
+     direction:
+       1  = następne
+      -1  = poprzednie
+     ===================================================== */
+
+  function showPhoto(index, direction) {
+
+    if (photos.length <= 1 || isAnimating) {
+      return;
+    }
+
+    const newIndex =
+      (index + photos.length) %
+      photos.length;
+
+    if (newIndex === currentIndex) {
+      return;
+    }
+
+    isAnimating = true;
+
+    const info =
+      getPhotoInfo(newIndex);
+
+    incomingImage.src =
+      info.src;
+
+    incomingImage.alt =
+      info.alt;
+
+    /*
+     * Kierunek wejścia:
+     *
+     * następne -> z prawej
+     * poprzednie -> z lewej
+     */
+
+    incomingImage.className =
+      direction > 0
+        ? "lightbox__image from-right"
+        : "lightbox__image from-left";
+
+    /*
+     * Wymuszamy klatkę, żeby przeglądarka
+     * zobaczyła pozycję początkową.
+     */
+
+    incomingImage.offsetWidth;
+
+    requestAnimationFrame(() => {
+
+      currentImage.classList.remove(
+        "is-current"
+      );
+
+      currentImage.classList.add(
+        direction > 0
+          ? "to-left"
+          : "to-right"
+      );
+
+      incomingImage.classList.remove(
+        direction > 0
+          ? "from-right"
+          : "from-left"
+      );
+
+      incomingImage.classList.add(
+        "is-current"
+      );
+    });
+
+    caption.textContent =
+      info.caption;
+
+    counter.textContent =
+      `${newIndex + 1} / ${photos.length}`;
+
+    setTimeout(() => {
+
+      const oldImage =
+        currentImage;
+
+      currentImage =
+        incomingImage;
+
+      incomingImage =
+        oldImage;
+
+      currentIndex =
+        newIndex;
+
+      currentImage.className =
+        "lightbox__image is-current";
+
+      incomingImage.className =
+        "lightbox__image";
+
+      isAnimating = false;
+
+    }, 300);
+  }
+
+
+  /* =====================================================
+     KLIKNIĘCIE W ZDJĘCIE
+     ===================================================== */
+
+  photos.forEach((photo, index) => {
+
+    photo.addEventListener("click", () => {
+      openLightbox(index);
+    });
+
+  });
+
+
+  /* =====================================================
+     PRZYCISKI
+     ===================================================== */
+
+  closeButton.addEventListener(
+    "click",
+    closeLightbox
+  );
+
+  prevButton.addEventListener(
+    "click",
+    () => showPhoto(
+      currentIndex - 1,
+      -1
+    )
+  );
+
+  nextButton.addEventListener(
+    "click",
+    () => showPhoto(
+      currentIndex + 1,
+      1
+    )
+  );
+
+
+  /* =====================================================
+     KLIKNIĘCIE W TŁO
+     ===================================================== */
+
+  lightbox.addEventListener(
+    "click",
+    event => {
+
+      if (event.target === lightbox) {
+        closeLightbox();
+      }
+
+    }
+  );
+
+
+  /* =====================================================
+     KLAWIATURA
+     ===================================================== */
+
+  document.addEventListener(
+    "keydown",
+    event => {
+
+      if (!lightbox.classList.contains("is-open")) {
+        return;
+      }
+
+      if (event.key === "Escape") {
+        closeLightbox();
+      }
+
+      if (event.key === "ArrowLeft") {
+
+        event.preventDefault();
+
+        showPhoto(
+          currentIndex - 1,
+          -1
+        );
+      }
+
+      if (event.key === "ArrowRight") {
+
+        event.preventDefault();
+
+        showPhoto(
+          currentIndex + 1,
+          1
+        );
+      }
+
+    }
+  );
+
+
+  /* =====================================================
+     SWIPE
+     ===================================================== */
+
+  stage.addEventListener(
+    "touchstart",
+    event => {
+
+      if (!event.touches.length) {
+        return;
+      }
+
+      touchStartX =
+        event.touches[0].clientX;
+
+      touchStartY =
+        event.touches[0].clientY;
+
+    },
+    { passive: true }
+  );
+
+
+  stage.addEventListener(
+    "touchend",
+    event => {
+
+      if (!event.changedTouches.length) {
+        return;
+      }
+
+      const touch =
+        event.changedTouches[0];
+
+      const deltaX =
+        touch.clientX - touchStartX;
+
+      const deltaY =
+        touch.clientY - touchStartY;
+
+      /*
+       * Musi być wyraźniejsze poziome
+       * przesunięcie niż pionowe.
+       */
+
+      if (
+        Math.abs(deltaX) < 50 ||
+        Math.abs(deltaX) < Math.abs(deltaY)
+      ) {
+        return;
+      }
+
+      if (deltaX < 0) {
+
+        // swipe w lewo -> następne
+        showPhoto(
+          currentIndex + 1,
+          1
+        );
+
+      } else {
+
+        // swipe w prawo -> poprzednie
+        showPhoto(
+          currentIndex - 1,
+          -1
+        );
+      }
+
+    },
+    { passive: true }
+  );
+
+});
+</script>
+</body>
+</html>

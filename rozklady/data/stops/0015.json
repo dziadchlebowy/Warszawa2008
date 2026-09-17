@@ -1,0 +1,32 @@
+{
+    "id": "0015",
+    "name": "CERAMICZNA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Milenijna"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Milenijna"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

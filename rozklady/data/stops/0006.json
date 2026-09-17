@@ -1,0 +1,46 @@
+{
+    "id": "0006",
+    "name": "HENRYKÓW",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "03": {
+            "streets": [
+                "Mehoffera"
+            ],
+            "regular": [
+                "144"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [
+                "144"
+            ],
+            "request": [
+                "511",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Modlińska"
+            ],
+            "regular": [],
+            "request": [
+                "511"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,724 @@
+{
+    "line": "144",
+    "type": "bus",
+    "description": "linia zwykła",
+    "validFrom": "2026-09-17",
+    "routes": [
+        {
+            "id": "TP-ŻER",
+            "name": "TP-ŻER",
+            "from": "DĄBRÓWKA SZLACHECKA",
+            "to": "ŻERAŃ FSO",
+            "stops": [
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 0,
+                    "number": "03",
+                    "terminus": true,
+                    "groupId": "0001"
+                },
+                {
+                    "street": "Aluzyjna"
+                },
+                {
+                    "street": "Aluzyjna",
+                    "name": "DĄBRÓWKA WIŚLANA",
+                    "travelTime": 1,
+                    "number": "01",
+                    "groupId": "0002"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "ALUZYJNA",
+                    "travelTime": 2,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0003"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 3,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0001"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "POETÓW",
+                    "travelTime": 4,
+                    "number": "01",
+                    "groupId": "0004"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "WINNICA",
+                    "travelTime": 6,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0005"
+                },
+                {
+                    "street": "Mehoffera",
+                    "name": "HENRYKÓW",
+                    "travelTime": 7,
+                    "number": "03",
+                    "groupId": "0006"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "PASŁĘCKA",
+                    "travelTime": 8,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0007"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "STRUMYKOWA",
+                    "travelTime": 9,
+                    "number": "01",
+                    "groupId": "0008"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "NOWODWORY",
+                    "travelTime": 10,
+                    "number": "01",
+                    "groupId": "0009"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "STEFANIKA",
+                    "travelTime": 11,
+                    "number": "01",
+                    "groupId": "0010"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MEHOFFERA",
+                    "travelTime": 12,
+                    "number": "01",
+                    "groupId": "0011"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "TARCHOMIN",
+                    "travelTime": 13,
+                    "number": "04",
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "KAMIŃSKIEGO",
+                    "travelTime": 14,
+                    "number": "01",
+                    "groupId": "0013"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "ĆMIELOWSKA",
+                    "travelTime": 16,
+                    "number": "01",
+                    "groupId": "0014"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "CERAMICZNA",
+                    "travelTime": 17,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0015"
+                },
+                {
+                    "street": "Światowida"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "BIAŁOŁĘKA-RATUSZ",
+                    "travelTime": 18,
+                    "number": "01",
+                    "groupId": "0016"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "OBRAZKOWA",
+                    "travelTime": 20,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0017"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 21,
+                    "number": "01",
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "PŁOCHOCIŃSKA",
+                    "travelTime": 22,
+                    "number": "01",
+                    "groupId": "0019"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KONWALIOWA",
+                    "travelTime": 24,
+                    "number": "01",
+                    "groupId": "0020"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KANAŁ ŻERAŃSKI",
+                    "travelTime": 25,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0021"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EC ŻERAŃ",
+                    "travelTime": 26,
+                    "number": "01",
+                    "request": true,
+                    "groupId": "0022"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 28,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0023"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "5": [
+                        17,
+                        37,
+                        57
+                    ],
+                    "6": [
+                        17,
+                        37,
+                        58
+                    ],
+                    "7": [
+                        17,
+                        38,
+                        58
+                    ],
+                    "8": [
+                        17,
+                        37,
+                        58
+                    ],
+                    "9": [
+                        14,
+                        33,
+                        53
+                    ],
+                    "10": [
+                        13,
+                        33,
+                        53
+                    ],
+                    "11": [
+                        13,
+                        33,
+                        53
+                    ],
+                    "12": [
+                        12,
+                        33,
+                        54
+                    ],
+                    "13": [
+                        13,
+                        33,
+                        54
+                    ],
+                    "14": [
+                        14,
+                        34,
+                        54
+                    ],
+                    "15": [
+                        6,
+                        26,
+                        46
+                    ],
+                    "16": [
+                        5,
+                        24,
+                        43
+                    ],
+                    "17": [
+                        3,
+                        24,
+                        44
+                    ],
+                    "18": [
+                        3,
+                        23,
+                        43
+                    ],
+                    "19": [
+                        12,
+                        32,
+                        52
+                    ],
+                    "20": [
+                        12,
+                        32,
+                        53
+                    ],
+                    "21": [
+                        14,
+                        34,
+                        54
+                    ],
+                    "22": [
+                        13,
+                        33,
+                        54
+                    ],
+                    "23": [
+                        14,
+                        35,
+                        55
+                    ]
+                },
+                "saturday": {
+                    "5": [
+                        19,
+                        49
+                    ],
+                    "6": [
+                        18,
+                        49
+                    ],
+                    "7": [
+                        20,
+                        50
+                    ],
+                    "8": [
+                        20,
+                        50
+                    ],
+                    "9": [
+                        19,
+                        49
+                    ],
+                    "10": [
+                        20,
+                        50
+                    ],
+                    "11": [
+                        19,
+                        50
+                    ],
+                    "12": [
+                        19,
+                        49
+                    ],
+                    "13": [
+                        19,
+                        48
+                    ],
+                    "14": [
+                        17,
+                        47
+                    ],
+                    "15": [
+                        16,
+                        46
+                    ],
+                    "16": [
+                        15,
+                        45
+                    ],
+                    "17": [
+                        14,
+                        43
+                    ],
+                    "18": [
+                        13,
+                        42
+                    ],
+                    "19": [
+                        13,
+                        43
+                    ],
+                    "20": [
+                        14,
+                        45
+                    ],
+                    "21": [
+                        16,
+                        46
+                    ],
+                    "22": [
+                        16,
+                        47
+                    ],
+                    "23": [
+                        16,
+                        46
+                    ]
+                }
+            }
+        },
+        {
+            "id": "TP-DĄB",
+            "name": "TP-DĄB",
+            "from": "ŻERAŃ FSO",
+            "to": "DĄBRÓWKA SZLACHECKA",
+            "stops": [
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 0,
+                    "number": "09",
+                    "terminus": true,
+                    "groupId": "0023"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "ŻERAŃ FSO",
+                    "travelTime": 2,
+                    "number": "02",
+                    "groupId": "0023"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KANAŁ ŻERAŃSKI",
+                    "travelTime": 3,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0021"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "KONWALIOWA",
+                    "travelTime": 4,
+                    "number": "02",
+                    "groupId": "0020"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "PŁOCHOCIŃSKA",
+                    "travelTime": 6,
+                    "number": "02",
+                    "groupId": "0019"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "EKSPRESOWA",
+                    "travelTime": 7,
+                    "number": "02",
+                    "groupId": "0018"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "OBRAZKOWA",
+                    "travelTime": 8,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0017"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "BIAŁOŁĘKA-RATUSZ",
+                    "travelTime": 9,
+                    "number": "03",
+                    "groupId": "0016"
+                },
+                {
+                    "street": "Milenijna",
+                    "name": "CERAMICZNA",
+                    "travelTime": 11,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0015"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "ĆMIELOWSKA",
+                    "travelTime": 12,
+                    "number": "02",
+                    "groupId": "0014"
+                },
+                {
+                    "street": "Ćmielowska",
+                    "name": "KAMIŃSKIEGO",
+                    "travelTime": 13,
+                    "number": "02",
+                    "groupId": "0013"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "TARCHOMIN",
+                    "travelTime": 15,
+                    "number": "02",
+                    "groupId": "0012"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "MEHOFFERA",
+                    "travelTime": 16,
+                    "number": "02",
+                    "groupId": "0011"
+                },
+                {
+                    "street": "Światowida",
+                    "name": "STEFANIKA",
+                    "travelTime": 18,
+                    "number": "02",
+                    "groupId": "0010"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "NOWODWORY",
+                    "travelTime": 19,
+                    "number": "04",
+                    "groupId": "0009"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "STRUMYKOWA",
+                    "travelTime": 20,
+                    "number": "02",
+                    "groupId": "0008"
+                },
+                {
+                    "street": "Hanki Ordonówny",
+                    "name": "PASŁĘCKA",
+                    "travelTime": 21,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0007"
+                },
+                {
+                    "street": "Mehoffera",
+                    "name": "CHĘCIŃSKA",
+                    "travelTime": 22,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0024"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "HENRYKÓW",
+                    "travelTime": 23,
+                    "number": "02",
+                    "groupId": "0006"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "WINNICA",
+                    "travelTime": 24,
+                    "number": "02",
+                    "request": true,
+                    "groupId": "0005"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "POETÓW",
+                    "travelTime": 25,
+                    "number": "02",
+                    "groupId": "0004"
+                },
+                {
+                    "street": "Modlińska",
+                    "name": "DĄBRÓWKA SZLACHECKA",
+                    "travelTime": 26,
+                    "number": "03",
+                    "terminus": true,
+                    "groupId": "0001"
+                }
+            ],
+            "timetable": {
+                "weekday": {
+                    "5": [
+                        5,
+                        24,
+                        44
+                    ],
+                    "6": [
+                        4,
+                        24,
+                        44
+                    ],
+                    "7": [
+                        5,
+                        24,
+                        44
+                    ],
+                    "8": [
+                        3,
+                        22,
+                        42
+                    ],
+                    "9": [
+                        7,
+                        26,
+                        45
+                    ],
+                    "10": [
+                        5,
+                        26,
+                        46
+                    ],
+                    "11": [
+                        7,
+                        27,
+                        47
+                    ],
+                    "12": [
+                        7,
+                        27,
+                        47
+                    ],
+                    "13": [
+                        8,
+                        29,
+                        48
+                    ],
+                    "14": [
+                        7,
+                        27,
+                        47
+                    ],
+                    "15": [
+                        7,
+                        26,
+                        45
+                    ],
+                    "16": [
+                        5,
+                        25,
+                        44
+                    ],
+                    "17": [
+                        4,
+                        24,
+                        45
+                    ],
+                    "18": [
+                        5,
+                        26,
+                        46
+                    ],
+                    "19": [
+                        15,
+                        35,
+                        55
+                    ],
+                    "20": [
+                        14,
+                        33,
+                        53
+                    ],
+                    "21": [
+                        13,
+                        33,
+                        52
+                    ],
+                    "22": [
+                        12,
+                        33,
+                        53
+                    ],
+                    "23": [
+                        14,
+                        33,
+                        53
+                    ]
+                },
+                "saturday": {
+                    "5": [
+                        4,
+                        35
+                    ],
+                    "6": [
+                        6,
+                        36
+                    ],
+                    "7": [
+                        5,
+                        36
+                    ],
+                    "8": [
+                        7,
+                        37
+                    ],
+                    "9": [
+                        6,
+                        35
+                    ],
+                    "10": [
+                        5,
+                        35
+                    ],
+                    "11": [
+                        6,
+                        37
+                    ],
+                    "12": [
+                        7,
+                        37
+                    ],
+                    "13": [
+                        8,
+                        39
+                    ],
+                    "14": [
+                        9,
+                        39
+                    ],
+                    "15": [
+                        8,
+                        38
+                    ],
+                    "16": [
+                        9,
+                        38
+                    ],
+                    "17": [
+                        7,
+                        37
+                    ],
+                    "18": [
+                        7,
+                        37
+                    ],
+                    "19": [
+                        7,
+                        37
+                    ],
+                    "20": [
+                        6,
+                        37
+                    ],
+                    "21": [
+                        7,
+                        36
+                    ],
+                    "22": [
+                        5,
+                        35
+                    ],
+                    "23": [
+                        5,
+                        36
+                    ]
+                }
+            }
+        }
+    ]
+}

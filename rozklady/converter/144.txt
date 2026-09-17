@@ -1,0 +1,32 @@
+144	linia zwykła							
+								
+Kierunek: ŻERAŃ FSO					Kierunek: DĄBRÓWKA SZLACHECKA			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Modlińska	DĄBRÓWKA SZLACHECKA	03	K		Modlińska	ŻERAŃ FSO	09	K
+Aluzyjna						ŻERAŃ FSO	02	
+	DĄBRÓWKA WIŚLANA	01				KANAŁ ŻERAŃSKI	02	NŻ
+Modlińska	ALUZYJNA	01	NŻ			KONWALIOWA	02	
+	DĄBRÓWKA SZLACHECKA	01	NŻ			PŁOCHOCIŃSKA	02	
+	POETÓW	01				EKSPRESOWA	02	
+	WINNICA	01	NŻ			OBRAZKOWA	02	NŻ
+Mehoffera	HENRYKÓW	03			Światowida	BIAŁOŁĘKA-RATUSZ	03	
+Hanki Ordonówny	PASŁĘCKA	01	NŻ		Milenijna	CERAMICZNA	02	NŻ
+	STRUMYKOWA	01			Ćmielowska	ĆMIELOWSKA	02	
+Światowida	NOWODWORY	01				KAMIŃSKIEGO	02	
+	STEFANIKA	01			Światowida	TARCHOMIN	02	
+	MEHOFFERA	01				MEHOFFERA	02	
+Ćmielowska	TARCHOMIN	04				STEFANIKA	02	
+	KAMIŃSKIEGO	01			Hanki Ordonówny	NOWODWORY	04	
+Milenijna	ĆMIELOWSKA	01				STRUMYKOWA	02	
+	CERAMICZNA	01	NŻ			PASŁĘCKA	02	NŻ
+Światowida					Mehoffera	CHĘCIŃSKA	02	NŻ
+Modlińska	BIAŁOŁĘKA-RATUSZ	01			Modlińska	HENRYKÓW	02	
+	OBRAZKOWA	01	NŻ			WINNICA	02	NŻ
+	EKSPRESOWA	01				POETÓW	02	
+	PŁOCHOCIŃSKA	01				DĄBRÓWKA SZLACHECKA	03	K
+	KONWALIOWA	01						
+	KANAŁ ŻERAŃSKI	01	NŻ					
+	EC ŻERAŃ	01	NŻ					
+	ŻERAŃ FSO	09	K					
+
+20/20/30

@@ -1,0 +1,30 @@
+{
+    "id": "0040",
+    "name": "STARE ŚWIDRY",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "02": {
+            "streets": [
+                "Obrazkowa"
+            ],
+            "regular": [],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Myśliborska"
+            ],
+            "regular": [],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "0033",
+    "name": "PICASSA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Porajów"
+            ],
+            "regular": [
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Świderska"
+            ],
+            "regular": [
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

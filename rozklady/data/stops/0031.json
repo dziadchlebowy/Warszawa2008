@@ -1,0 +1,34 @@
+{
+    "id": "0031",
+    "name": "PARK KASKADA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "06": {
+            "streets": [
+                "Al. Armii Krajowej"
+            ],
+            "regular": [
+                "404",
+                "508",
+                "511"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "05": {
+            "streets": [
+                "Al. Armii Krajowej"
+            ],
+            "regular": [
+                "404",
+                "508",
+                "511"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

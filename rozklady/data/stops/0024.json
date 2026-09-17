@@ -1,0 +1,20 @@
+{
+    "id": "0024",
+    "name": "CHĘCIŃSKA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "02": {
+            "streets": [
+                "Mehoffera"
+            ],
+            "regular": [],
+            "request": [
+                "144",
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

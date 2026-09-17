@@ -1,0 +1,30 @@
+{
+    "id": "0037",
+    "name": "HANKI ORDONÓWNY",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "01": {
+            "streets": [
+                "Odkryta"
+            ],
+            "regular": [
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Odkryta"
+            ],
+            "regular": [
+                "516"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        }
+    }
+}

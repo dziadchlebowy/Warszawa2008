@@ -1,0 +1,82 @@
+{
+    "id": "0012",
+    "name": "TARCHOMIN",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "04": {
+            "streets": [
+                "Ćmielowska"
+            ],
+            "regular": [
+                "144",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "02": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "144",
+                "516"
+            ],
+            "request": [
+                "N63"
+            ],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "07": {
+            "streets": [
+                "Świętosławskiego"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "404"
+            ],
+            "alightingOnly": []
+        },
+        "01": {
+            "streets": [
+                "Światowida"
+            ],
+            "regular": [
+                "E4",
+                "404",
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "08": {
+            "streets": [
+                "Świderska"
+            ],
+            "regular": [
+                "508"
+            ],
+            "request": [],
+            "terminus": [],
+            "alightingOnly": []
+        },
+        "09": {
+            "streets": [
+                "Świętosławskiego"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "E4"
+            ],
+            "alightingOnly": []
+        }
+    }
+}

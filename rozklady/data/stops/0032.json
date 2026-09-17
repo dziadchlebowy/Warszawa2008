@@ -1,0 +1,19 @@
+{
+    "id": "0032",
+    "name": "PARK OLSZYNA",
+    "streetKey": "",
+    "district": "",
+    "stops": {
+        "05": {
+            "streets": [
+                "Al. Armii Krajowej"
+            ],
+            "regular": [],
+            "request": [],
+            "terminus": [
+                "404"
+            ],
+            "alightingOnly": []
+        }
+    }
+}

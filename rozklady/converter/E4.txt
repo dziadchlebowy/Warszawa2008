@@ -1,0 +1,18 @@
+E4	linia ekspresowa							
+								
+Kierunek: METRO MARYMONT					Kierunek: TARCHOMIN			
+Ulica	Przystanek	Nr			Ulica	Przystanek	Nr	
+Świętosławskiego	TARCHOMIN	09	K		Włościańska	METRO MARYMONT	12	K
+Świderska					Żelazowska			
+Ćmielowska					Al. Armii Krajowej			
+Światowida	TARCHOMIN	01			Most Grota-Roweckiego			
+	MYŚLIBORSKA	01			Modlińska	EKSPRESOWA	02	NŻ
+Modlińska	BIAŁOŁĘKA-RATUSZ	01			Światowida	BIAŁOŁĘKA-RATUSZ	03	
+	EKSPRESOWA	01	NŻ			MYŚLIBORSKA	02	
+Most Grota-Roweckiego					Świętosławskiego	TARCHOMIN	09	K
+Al. Armii Krajowej								
+Słowackiego								
+Włościańska	METRO MARYMONT	11						
+	METRO MARYMONT	12	K					
+
+5/420/1440

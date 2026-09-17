@@ -1,0 +1,22 @@
+{
+    "id": "0002",
+    "name": "DĄBRÓWKA WIŚLANA",
+    "streetKey": "",
+    "district": "WARSZAWA",
+    "stops": {
+        "01": {
+            "streets": [
+                "Aluzyjna"
+            ],
+            "regular": [
+                "144"
+            ],
+            "request": [],
+            "terminus": [
+                "211",
+                "511"
+            ],
+            "alightingOnly": []
+        }
+    }
+}
