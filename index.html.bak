@@ -58,16 +58,6 @@
         <h2>Aktualności</h2>
       </div>
 
-            <article class="news-card">
-        <div class="news-card__date">26 września 2026</div>
-        <h3>Nowa era edytowania</h3>
-        <p>Wraz z premierą <a style="color: blue;" href="https://neditor.eu/pl">nEditora</a> autorstwa mmikiego26, znacznie zwiększyła się wydajność pracy nad mapą.</p>
-        <p>W ostatnich <b>kilku dniach</b> przebudowane zostały: ulica Odkryta (pomiędzy Grzymalitów a Barei), rejony pętli Nowodwory, a także cały ciąg Ordonówny - Mehoffera począwszy od Ronda Ligi Morskiej i Rzecznej, na skrzyżowaniu Mehoffera z Modlińską skończywszy.</p>
-        <p>Najbliższe prace obejmować będą rejony ulic Słowackiego i Włościańskiej, a także DK8. Następnym krokiem będzie dopracowanie poszczególnych fragmentów ulicy Modlińskiej</p>
-        <p>W dość niedługim czasie pojawią się screeny ze stanu rozwoju mapy.</p>
-        <div class="signature">//dziad</div>
-      </article>
-
       <article class="news-card">
         <div class="news-card__date">10 listopada 2025</div>
         <h3>Wolniejsza praca także popłaca</h3>
