@@ -182,14 +182,26 @@ a { color: inherit; }
 
 .gallery-card__image--2024 {
   background-image:
-    linear-gradient(0deg, rgba(0,0,0,.58), rgba(0,0,0,.03)),
+    linear-gradient(0deg, rgba(0,0,0,.18), rgba(0,0,0,.03)),
     url("../img/galeria/2024-07-14/03.jpg");
 }
 
 .gallery-card__image--map09 {
   background-image:
-    linear-gradient(0deg, rgba(0,0,0,.58), rgba(0,0,0,.03)),
+    linear-gradient(0deg, rgba(0,0,0,.18), rgba(0,0,0,.03)),
     url("../mapy/mapa0.9_min.png");
+}
+
+.gallery-card__image--calendarium {
+  background-image:
+    linear-gradient(0deg, rgba(0,0,0,.18), rgba(0,0,0,.03)),
+    url("../img/zegar.png");
+}
+
+.gallery-card__image--sp09 {
+  background-image:
+    linear-gradient(0deg, rgba(0,0,0,.18), rgba(0,0,0,.03)),
+    url("../img/0.9.png");
 }
 
 .gallery-card__body { padding: 23px 24px 25px; }
